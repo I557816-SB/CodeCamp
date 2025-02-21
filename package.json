@@ -1,5 +1,5 @@
 {
-  "name": "cis-kh-crossword",
+  "name": "cis-knowledge-cafe",
   "version": "0.0.1",
   "description": "CIS Knowledge Café ☕",
   "private": true,
@@ -8,7 +8,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "body-parser": "^1.4.3",
+    "cors": "^2.8.5",
     "express": "^4.13.4"
   },
   "devDependencies": {
