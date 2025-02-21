@@ -1,7 +1,7 @@
 ---
 applications:
 - name: crossword
-  command: node app.js
+  command: node ./root/app.js
   memory: 512M
   instances: 1
   path: .

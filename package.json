@@ -5,7 +5,7 @@
   "private": true,
   "author": "I557816",
   "scripts": {
-    "start": "node app.js"
+    "start": "node ./root/app.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
