@@ -64,10 +64,10 @@ app.get("/", (req, res) => {
         <body>
             <div class="sap-banner">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP Logo">
-                Week 1 Crossword Challenge
+                Week 5 Crossword Challenge
             </div>
             <iframe frameborder="0" src="https://crosswordlabs.com/embed/cis-knowledge-hub-crossword-week-1"></iframe>
-            <div class="footer">Made with ❤️ at CIS Knowledge Café☕ by Saurabh</div>
+            <div class="footer">Made with ❤️ at CIS Knowledge Café☕ </div>
         </body>
         </html>
     `);

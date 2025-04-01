@@ -16,7 +16,7 @@ app.get("/", (req, res) => {
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>SAP Crossword Challenge</title>
+            <title>CIS Knowledge Café ☕</title>
             <script src="https://unpkg.com/@ui5/webcomponents/dist/Button.js"></script>
             <script src="https://unpkg.com/@ui5/webcomponents/dist/Title.js"></script>
             <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
@@ -191,7 +191,7 @@ app.get("/", (req, res) => {
                 <div class="left-logo">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="SAP Logo">
                 </div>
-                <div class="title">Week 3 Crossword Challenge</div>
+                <div class="title">Week 4 Crossword Challenge</div>
                 <div class="right-logo">
                     <img src="/CIS_Visual_R_White.png" alt="CIS Logo">
                 </div>
@@ -219,7 +219,7 @@ app.get("/", (req, res) => {
             </div>
 
             <div class="footer">
-                Made with ❤️ at CIS Knowledge Café☕ by Saurabh
+                Made with ❤️ at CIS Knowledge Café☕
             </div>
 
             <script>

@@ -1,6 +1,7 @@
 ---
 applications:
 - name: crossword
+  random-route: true
   command: node app.js
   memory: 512M
   instances: 1
